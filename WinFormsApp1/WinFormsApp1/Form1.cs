@@ -42,7 +42,6 @@ namespace WinFormsApp1
                 numb = numb / 2.54;
             }
 
-
             label3.Text = numb.ToString();
         }
     }
